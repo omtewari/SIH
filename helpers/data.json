@@ -1,0 +1,782 @@
+[
+    {
+      "available_beds": 820,
+      "department_stats": [
+        {
+          "admissions": 39,
+          "department": "Pediatrics",
+          "discharges": 16,
+          "emergency_visits": 34,
+          "opd_visits": 101
+        },
+        {
+          "admissions": 21,
+          "department": "Neurology",
+          "discharges": 22,
+          "emergency_visits": 73,
+          "opd_visits": 84
+        },
+        {
+          "admissions": 38,
+          "department": "Pediatrics",
+          "discharges": 23,
+          "emergency_visits": 47,
+          "opd_visits": 95
+        },
+        {
+          "admissions": 36,
+          "department": "Pediatrics",
+          "discharges": 20,
+          "emergency_visits": 22,
+          "opd_visits": 86
+        },
+        {
+          "admissions": 47,
+          "department": "Oncology",
+          "discharges": 12,
+          "emergency_visits": 21,
+          "opd_visits": 98
+        },
+        {
+          "admissions": 15,
+          "department": "Orthopedics",
+          "discharges": 20,
+          "emergency_visits": 29,
+          "opd_visits": 154
+        }
+      ],
+      "hourly_stats": [
+        {
+          "admissions": 7,
+          "emergency_visits": 72,
+          "hour": 16,
+          "opd_visits": 30
+        },
+        {
+          "admissions": 13,
+          "emergency_visits": 32,
+          "hour": 22,
+          "opd_visits": 93
+        },
+        {
+          "admissions": 6,
+          "emergency_visits": 21,
+          "hour": 4,
+          "opd_visits": 139
+        },
+        {
+          "admissions": 14,
+          "emergency_visits": 50,
+          "hour": 15,
+          "opd_visits": 52
+        },
+        {
+          "admissions": 11,
+          "emergency_visits": 43,
+          "hour": 21,
+          "opd_visits": 130
+        },
+        {
+          "admissions": 6,
+          "emergency_visits": 95,
+          "hour": 1,
+          "opd_visits": 103
+        },
+        {
+          "admissions": 21,
+          "emergency_visits": 84,
+          "hour": 7,
+          "opd_visits": 62
+        },
+        {
+          "admissions": 14,
+          "emergency_visits": 82,
+          "hour": 2,
+          "opd_visits": 128
+        },
+        {
+          "admissions": 15,
+          "emergency_visits": 66,
+          "hour": 15,
+          "opd_visits": 38
+        },
+        {
+          "admissions": 12,
+          "emergency_visits": 60,
+          "hour": 3,
+          "opd_visits": 56
+        },
+        {
+          "admissions": 6,
+          "emergency_visits": 95,
+          "hour": 14,
+          "opd_visits": 96
+        },
+        {
+          "admissions": 28,
+          "emergency_visits": 46,
+          "hour": 5,
+          "opd_visits": 136
+        },
+        {
+          "admissions": 15,
+          "emergency_visits": 25,
+          "hour": 7,
+          "opd_visits": 55
+        },
+        {
+          "admissions": 6,
+          "emergency_visits": 75,
+          "hour": 15,
+          "opd_visits": 47
+        },
+        {
+          "admissions": 10,
+          "emergency_visits": 89,
+          "hour": 2,
+          "opd_visits": 132
+        },
+        {
+          "admissions": 21,
+          "emergency_visits": 50,
+          "hour": 16,
+          "opd_visits": 43
+        },
+        {
+          "admissions": 17,
+          "emergency_visits": 48,
+          "hour": 16,
+          "opd_visits": 131
+        },
+        {
+          "admissions": 22,
+          "emergency_visits": 25,
+          "hour": 3,
+          "opd_visits": 70
+        },
+        {
+          "admissions": 7,
+          "emergency_visits": 33,
+          "hour": 13,
+          "opd_visits": 109
+        },
+        {
+          "admissions": 18,
+          "emergency_visits": 93,
+          "hour": 2,
+          "opd_visits": 40
+        },
+        {
+          "admissions": 10,
+          "emergency_visits": 65,
+          "hour": 19,
+          "opd_visits": 86
+        },
+        {
+          "admissions": 23,
+          "emergency_visits": 81,
+          "hour": 9,
+          "opd_visits": 73
+        },
+        {
+          "admissions": 25,
+          "emergency_visits": 70,
+          "hour": 15,
+          "opd_visits": 149
+        },
+        {
+          "admissions": 24,
+          "emergency_visits": 43,
+          "hour": 21,
+          "opd_visits": 121
+        }
+      ],
+      "name": "AIIMS",
+      "total_beds": 1000
+    },
+    {
+      "available_beds": 173,
+      "department_stats": [
+        {
+          "admissions": 17,
+          "department": "General Surgery",
+          "discharges": 21,
+          "emergency_visits": 61,
+          "opd_visits": 114
+        },
+        {
+          "admissions": 20,
+          "department": "Pediatrics",
+          "discharges": 31,
+          "emergency_visits": 30,
+          "opd_visits": 177
+        },
+        {
+          "admissions": 21,
+          "department": "Neurology",
+          "discharges": 6,
+          "emergency_visits": 38,
+          "opd_visits": 71
+        },
+        {
+          "admissions": 23,
+          "department": "Cardiology",
+          "discharges": 24,
+          "emergency_visits": 46,
+          "opd_visits": 65
+        },
+        {
+          "admissions": 41,
+          "department": "Pediatrics",
+          "discharges": 25,
+          "emergency_visits": 51,
+          "opd_visits": 83
+        },
+        {
+          "admissions": 19,
+          "department": "Oncology",
+          "discharges": 12,
+          "emergency_visits": 27,
+          "opd_visits": 148
+        }
+      ],
+      "hourly_stats": [
+        {
+          "admissions": 16,
+          "emergency_visits": 42,
+          "hour": 9,
+          "opd_visits": 69
+        },
+        {
+          "admissions": 22,
+          "emergency_visits": 76,
+          "hour": 16,
+          "opd_visits": 80
+        },
+        {
+          "admissions": 16,
+          "emergency_visits": 94,
+          "hour": 17,
+          "opd_visits": 36
+        },
+        {
+          "admissions": 15,
+          "emergency_visits": 49,
+          "hour": 23,
+          "opd_visits": 70
+        },
+        {
+          "admissions": 18,
+          "emergency_visits": 36,
+          "hour": 9,
+          "opd_visits": 65
+        },
+        {
+          "admissions": 15,
+          "emergency_visits": 55,
+          "hour": 9,
+          "opd_visits": 112
+        },
+        {
+          "admissions": 13,
+          "emergency_visits": 83,
+          "hour": 17,
+          "opd_visits": 132
+        },
+        {
+          "admissions": 16,
+          "emergency_visits": 54,
+          "hour": 5,
+          "opd_visits": 68
+        },
+        {
+          "admissions": 24,
+          "emergency_visits": 91,
+          "hour": 21,
+          "opd_visits": 43
+        },
+        {
+          "admissions": 7,
+          "emergency_visits": 98,
+          "hour": 21,
+          "opd_visits": 73
+        },
+        {
+          "admissions": 30,
+          "emergency_visits": 51,
+          "hour": 0,
+          "opd_visits": 34
+        },
+        {
+          "admissions": 12,
+          "emergency_visits": 95,
+          "hour": 5,
+          "opd_visits": 102
+        },
+        {
+          "admissions": 8,
+          "emergency_visits": 29,
+          "hour": 14,
+          "opd_visits": 41
+        },
+        {
+          "admissions": 12,
+          "emergency_visits": 94,
+          "hour": 0,
+          "opd_visits": 83
+        },
+        {
+          "admissions": 29,
+          "emergency_visits": 21,
+          "hour": 19,
+          "opd_visits": 105
+        },
+        {
+          "admissions": 7,
+          "emergency_visits": 76,
+          "hour": 3,
+          "opd_visits": 122
+        },
+        {
+          "admissions": 22,
+          "emergency_visits": 40,
+          "hour": 10,
+          "opd_visits": 109
+        },
+        {
+          "admissions": 14,
+          "emergency_visits": 21,
+          "hour": 13,
+          "opd_visits": 94
+        },
+        {
+          "admissions": 6,
+          "emergency_visits": 84,
+          "hour": 9,
+          "opd_visits": 140
+        },
+        {
+          "admissions": 21,
+          "emergency_visits": 24,
+          "hour": 5,
+          "opd_visits": 53
+        },
+        {
+          "admissions": 5,
+          "emergency_visits": 57,
+          "hour": 18,
+          "opd_visits": 126
+        },
+        {
+          "admissions": 19,
+          "emergency_visits": 56,
+          "hour": 23,
+          "opd_visits": 32
+        },
+        {
+          "admissions": 22,
+          "emergency_visits": 72,
+          "hour": 11,
+          "opd_visits": 131
+        },
+        {
+          "admissions": 26,
+          "emergency_visits": 69,
+          "hour": 18,
+          "opd_visits": 119
+        }
+      ],
+      "name": "Safdarjung",
+      "total_beds": 850
+    },
+    {
+      "available_beds": 501,
+      "department_stats": [
+        {
+          "admissions": 48,
+          "department": "General Surgery",
+          "discharges": 27,
+          "emergency_visits": 47,
+          "opd_visits": 163
+        },
+        {
+          "admissions": 27,
+          "department": "Cardiology",
+          "discharges": 35,
+          "emergency_visits": 66,
+          "opd_visits": 101
+        },
+        {
+          "admissions": 22,
+          "department": "Cardiology",
+          "discharges": 10,
+          "emergency_visits": 26,
+          "opd_visits": 185
+        },
+        {
+          "admissions": 40,
+          "department": "Cardiology",
+          "discharges": 8,
+          "emergency_visits": 20,
+          "opd_visits": 189
+        },
+        {
+          "admissions": 20,
+          "department": "Cardiology",
+          "discharges": 12,
+          "emergency_visits": 80,
+          "opd_visits": 96
+        },
+        {
+          "admissions": 41,
+          "department": "Orthopedics",
+          "discharges": 6,
+          "emergency_visits": 14,
+          "opd_visits": 141
+        }
+      ],
+      "hourly_stats": [
+        {
+          "admissions": 21,
+          "emergency_visits": 59,
+          "hour": 11,
+          "opd_visits": 91
+        },
+        {
+          "admissions": 10,
+          "emergency_visits": 55,
+          "hour": 19,
+          "opd_visits": 35
+        },
+        {
+          "admissions": 26,
+          "emergency_visits": 86,
+          "hour": 19,
+          "opd_visits": 50
+        },
+        {
+          "admissions": 26,
+          "emergency_visits": 66,
+          "hour": 13,
+          "opd_visits": 97
+        },
+        {
+          "admissions": 25,
+          "emergency_visits": 66,
+          "hour": 18,
+          "opd_visits": 113
+        },
+        {
+          "admissions": 5,
+          "emergency_visits": 84,
+          "hour": 7,
+          "opd_visits": 66
+        },
+        {
+          "admissions": 30,
+          "emergency_visits": 52,
+          "hour": 5,
+          "opd_visits": 136
+        },
+        {
+          "admissions": 27,
+          "emergency_visits": 30,
+          "hour": 22,
+          "opd_visits": 38
+        },
+        {
+          "admissions": 28,
+          "emergency_visits": 34,
+          "hour": 20,
+          "opd_visits": 127
+        },
+        {
+          "admissions": 9,
+          "emergency_visits": 40,
+          "hour": 12,
+          "opd_visits": 61
+        },
+        {
+          "admissions": 17,
+          "emergency_visits": 66,
+          "hour": 14,
+          "opd_visits": 38
+        },
+        {
+          "admissions": 10,
+          "emergency_visits": 84,
+          "hour": 11,
+          "opd_visits": 97
+        },
+        {
+          "admissions": 16,
+          "emergency_visits": 70,
+          "hour": 2,
+          "opd_visits": 140
+        },
+        {
+          "admissions": 30,
+          "emergency_visits": 83,
+          "hour": 4,
+          "opd_visits": 94
+        },
+        {
+          "admissions": 23,
+          "emergency_visits": 72,
+          "hour": 8,
+          "opd_visits": 104
+        },
+        {
+          "admissions": 26,
+          "emergency_visits": 81,
+          "hour": 23,
+          "opd_visits": 114
+        },
+        {
+          "admissions": 5,
+          "emergency_visits": 82,
+          "hour": 23,
+          "opd_visits": 59
+        },
+        {
+          "admissions": 17,
+          "emergency_visits": 88,
+          "hour": 21,
+          "opd_visits": 106
+        },
+        {
+          "admissions": 22,
+          "emergency_visits": 53,
+          "hour": 13,
+          "opd_visits": 37
+        },
+        {
+          "admissions": 12,
+          "emergency_visits": 99,
+          "hour": 5,
+          "opd_visits": 72
+        },
+        {
+          "admissions": 20,
+          "emergency_visits": 29,
+          "hour": 22,
+          "opd_visits": 49
+        },
+        {
+          "admissions": 15,
+          "emergency_visits": 69,
+          "hour": 22,
+          "opd_visits": 88
+        },
+        {
+          "admissions": 27,
+          "emergency_visits": 98,
+          "hour": 8,
+          "opd_visits": 101
+        },
+        {
+          "admissions": 10,
+          "emergency_visits": 97,
+          "hour": 11,
+          "opd_visits": 40
+        }
+      ],
+      "name": "Lok Nayak Hospital",
+      "total_beds": 700
+    },
+    {
+      "available_beds": 551,
+      "department_stats": [
+        {
+          "admissions": 19,
+          "department": "Oncology",
+          "discharges": 21,
+          "emergency_visits": 34,
+          "opd_visits": 192
+        },
+        {
+          "admissions": 41,
+          "department": "Cardiology",
+          "discharges": 10,
+          "emergency_visits": 35,
+          "opd_visits": 196
+        },
+        {
+          "admissions": 45,
+          "department": "Pediatrics",
+          "discharges": 26,
+          "emergency_visits": 18,
+          "opd_visits": 152
+        },
+        {
+          "admissions": 46,
+          "department": "Oncology",
+          "discharges": 12,
+          "emergency_visits": 27,
+          "opd_visits": 112
+        },
+        {
+          "admissions": 12,
+          "department": "Oncology",
+          "discharges": 8,
+          "emergency_visits": 32,
+          "opd_visits": 150
+        },
+        {
+          "admissions": 50,
+          "department": "Cardiology",
+          "discharges": 30,
+          "emergency_visits": 64,
+          "opd_visits": 191
+        }
+      ],
+      "hourly_stats": [
+        {
+          "admissions": 21,
+          "emergency_visits": 100,
+          "hour": 0,
+          "opd_visits": 117
+        },
+        {
+          "admissions": 25,
+          "emergency_visits": 50,
+          "hour": 17,
+          "opd_visits": 128
+        },
+        {
+          "admissions": 12,
+          "emergency_visits": 90,
+          "hour": 3,
+          "opd_visits": 145
+        },
+        {
+          "admissions": 16,
+          "emergency_visits": 36,
+          "hour": 19,
+          "opd_visits": 46
+        },
+        {
+          "admissions": 7,
+          "emergency_visits": 34,
+          "hour": 5,
+          "opd_visits": 114
+        },
+        {
+          "admissions": 23,
+          "emergency_visits": 63,
+          "hour": 4,
+          "opd_visits": 87
+        },
+        {
+          "admissions": 18,
+          "emergency_visits": 44,
+          "hour": 20,
+          "opd_visits": 138
+        },
+        {
+          "admissions": 26,
+          "emergency_visits": 44,
+          "hour": 6,
+          "opd_visits": 112
+        },
+        {
+          "admissions": 9,
+          "emergency_visits": 62,
+          "hour": 10,
+          "opd_visits": 70
+        },
+        {
+          "admissions": 28,
+          "emergency_visits": 83,
+          "hour": 3,
+          "opd_visits": 149
+        },
+        {
+          "admissions": 16,
+          "emergency_visits": 72,
+          "hour": 2,
+          "opd_visits": 92
+        },
+        {
+          "admissions": 7,
+          "emergency_visits": 38,
+          "hour": 18,
+          "opd_visits": 37
+        },
+        {
+          "admissions": 15,
+          "emergency_visits": 25,
+          "hour": 15,
+          "opd_visits": 83
+        },
+        {
+          "admissions": 9,
+          "emergency_visits": 97,
+          "hour": 9,
+          "opd_visits": 116
+        },
+        {
+          "admissions": 11,
+          "emergency_visits": 96,
+          "hour": 15,
+          "opd_visits": 80
+        },
+        {
+          "admissions": 14,
+          "emergency_visits": 93,
+          "hour": 22,
+          "opd_visits": 145
+        },
+        {
+          "admissions": 5,
+          "emergency_visits": 99,
+          "hour": 2,
+          "opd_visits": 48
+        },
+        {
+          "admissions": 28,
+          "emergency_visits": 84,
+          "hour": 22,
+          "opd_visits": 119
+        },
+        {
+          "admissions": 15,
+          "emergency_visits": 81,
+          "hour": 22,
+          "opd_visits": 61
+        },
+        {
+          "admissions": 6,
+          "emergency_visits": 47,
+          "hour": 4,
+          "opd_visits": 34
+        },
+        {
+          "admissions": 29,
+          "emergency_visits": 82,
+          "hour": 4,
+          "opd_visits": 135
+        },
+        {
+          "admissions": 23,
+          "emergency_visits": 64,
+          "hour": 8,
+          "opd_visits": 58
+        },
+        {
+          "admissions": 28,
+          "emergency_visits": 81,
+          "hour": 10,
+          "opd_visits": 95
+        },
+        {
+          "admissions": 19,
+          "emergency_visits": 64,
+          "hour": 13,
+          "opd_visits": 110
+        }
+      ],
+      "name": "Ram Manohar Lohia Hospital",
+      "total_beds": 600
+    }
+  ]
