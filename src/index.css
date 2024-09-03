@@ -688,7 +688,7 @@ nav .menu-btn,
             float:right;
             padding:28px 20px;
             position:relative;
-            user-select: none;
+            /* user-select: none; */
         }
         nav .menu-icon .nav-icon{
             background-color:#333333;
